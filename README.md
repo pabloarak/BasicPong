@@ -1,6 +1,6 @@
 # Basic Pong Game for Android
 
-Simple Pong game to play with an AI developed in Platzi's Unity 2D course.
+Simple Pong game to play with an AI developed in Platzi Unity 2D course.
 
 ## Stack
 
